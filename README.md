@@ -1,6 +1,10 @@
 # QualityArmory
 A quality gun plugin similar to CrackShot.
 
+## New developer for QualityArmory! ⚠
+Project has been officially took over by Lorenzo0111, you can find the new releases in [this link](https://github.com/ZombieStriker/QualityArmory)!\
+**This repo will no longer receive updates. Thanks everyone** ^^
+
 ## For Developers
 ### Maven
 To add QA to your project using maven, copy the following into the POM.xml.
